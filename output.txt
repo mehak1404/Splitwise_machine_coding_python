@@ -1,0 +1,18 @@
+No balances
+No balances
+No balances
+User2 owes User1: 250.0
+User3 owes User1: 250.0
+User4 owes User1: 250.0
+User2 owes User1: 620.0
+User3 owes User1: 1130.0
+User4 owes User1: 250.0
+User2 owes User1: 620.0
+User3 owes User1: 1130.0
+User4 owes User1: 250.0
+User1 owes User4: 480.0
+User2 owes User1: 620.0
+User2 owes User4: 240.0
+User3 owes User1: 1130.0
+User3 owes User4: 240.0
+User4 owes User1: 250.0
