@@ -1,4 +1,4 @@
-# Splitwise_machine_coding_python
+# [Splitwise_machine_coding_python](https://workat.tech/machine-coding/practice/splitwise-problem-0kp2yneec2q2)
 
 ## Overview
 An expense sharing application allows users to add their expenses and split them among multiple people. The app maintains balances between people, showing who owes how much to whom.
@@ -117,3 +117,9 @@ User3 owes User4: 240
 1. Define users in the main method.
 2. Parse input for expenses and balance queries.
 3. Use appropriate methods to handle inputs and display results.
+
+### Command to Run
+`python3 app.py <input.txt > output.txt`
+
+### Problem Link -
+   
