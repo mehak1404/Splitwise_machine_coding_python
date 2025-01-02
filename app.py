@@ -31,13 +31,13 @@ class Split(ABC):
 class EqualSplit(Split):
     pass
 
-@dataclass
+# @dataclass
 class ExactSplit(Split):
     def __init__(self, user: User, amount: Decimal):
         super().__init__(user)
         self.amount = amount
 
-@dataclass
+# @dataclass
 class PercentSplit(Split):
     percent: Decimal
 
